@@ -1,0 +1,19 @@
+{
+  "v_items": [
+    "v_accounts": [
+      "v_Froggy_available": true,
+      "v_Monky_available": true,
+      "v_2017_available": true,
+    ],
+    
+    "v_core_items": [
+      "vel_sale": true,
+      "sw_work": true,
+      "sw_lite_work": true,
+    ],
+    
+    "v_site": [
+      "site_available": true,
+    ],
+  ]
+}
